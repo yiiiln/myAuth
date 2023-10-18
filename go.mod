@@ -1,4 +1,4 @@
-module github.com/HouYiLing90/myAuth
+module github.com/yiiiln/myAuth
 
 go 1.21.3
 
